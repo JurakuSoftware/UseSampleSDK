@@ -1,5 +1,8 @@
 # SampleSDKを利用するサンプルアプリ
 
+SampleSDKは以下  
+https://github.com/JurakuSoftware/SampleSDK
+
 ## 注意点
 ソースをダウンロードして開くと、以下のようにSDKファイルの参照パスが正しくないためエラーになっている。  
 この場合は、該当のSDKを右クリックして削除し、再度「プロジェクト参照の追加」を行い、「SampleSDK.dll」ファイルを指定すれば良い。  
